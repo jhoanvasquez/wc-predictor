@@ -1,0 +1,21 @@
+# Generated data — re-created by running the pipeline scripts
+data_cache/
+
+# Trained model artifacts — re-created by running train.py
+*.pkl
+
+# Chart output
+predictions/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
